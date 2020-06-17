@@ -14,3 +14,6 @@ Architected using Model View Controller format and a finite machine for frontend
 - Validation on front-end on back-end for user registration
 - Prepared queries for the database to avoid sql injection
 - Profile page to display all game scores and user information
+
+
+CSC309 Web Programming at University of Toronto Mississauga 2020
